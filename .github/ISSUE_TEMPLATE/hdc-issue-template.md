@@ -7,17 +7,18 @@ assignees: ''
 
 ---
 
-_Replace the following with content specific to the new issue, and remove any sections that are not applicable._
-_Link this issue with existing epics._
+- _Replace the following with content specific to the new issue, and remove any sections that are not applicable._
+
+- _Link this issue with and existing epic._
 
 - Ideally, the issue is phased as a user story, e.g.
-> As a <role> I can <capability>, so that <receive benefit>
+   > As a \<role\> I can \<capability\>, so that \<receive benefit\>
 
 # Definition of Done
-<add text>
+   - add text
 
 ## Testing
-<what testing will be required>
+   - what testing will be required
 
 # Dependencies
-<are there dependencies on other issues>
+   - are there dependencies on other issues
